@@ -1,2 +1,5 @@
 
-print("HELLO")
+print("HAMO")
+
+a = 0
+b =19
